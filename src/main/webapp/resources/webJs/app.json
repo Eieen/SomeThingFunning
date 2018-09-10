@@ -2,7 +2,7 @@
     /**
      * The application's namespace.
      */
-    "name": "webJS",
+    "name": "webJs",
     
     /**
      * The version of the application.
@@ -53,13 +53,13 @@
     "sass": {
         /**
          * The root namespace to use when mapping *.scss files to classes in the
-         * sass/src and sass/var directories. For example, "webJS.view.Foo" would
-         * map to "sass/src/view/Foo.scss". If we changed this to "webJS.view" then
+         * sass/src and sass/var directories. For example, "webJs.view.Foo" would
+         * map to "sass/src/view/Foo.scss". If we changed this to "webJs.view" then
          * it would map to "sass/src/Foo.scss". To style classes outside the app's
          * root namespace, change this to "". Doing so would change the mapping of
-         * "webJS.view.Foo" to "sass/src/webJS/view/Foo.scss".
+         * "webJs.view.Foo" to "sass/src/webJs/view/Foo.scss".
          */
-        "namespace": "webJS"
+        "namespace": "webJs"
     },
 
     /**
@@ -325,5 +325,5 @@
      * Uniquely generated id for this application, used as prefix for localStorage keys.
      * Normally you should never change this value.
      */
-    "id": "fafee641-cb9e-41d8-be77-e02da8326ca5"
+    "id": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee"
 }

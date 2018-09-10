@@ -5,11 +5,11 @@
  *
  * TODO - Replace this content of this view to suite the needs of your application.
  */
-Ext.define('webJS.view.main.Main', {
+Ext.define('webJs.view.main.Main', {
     extend: 'Ext.container.Container',
     requires: [
-        'webJS.view.main.MainController',
-        'webJS.view.main.MainModel'
+        'webJs.view.main.MainController',
+        'webJs.view.main.MainModel'
     ],
 
     xtype: 'app-main',

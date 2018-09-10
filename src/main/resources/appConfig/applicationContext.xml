@@ -13,7 +13,7 @@
        <!-- 将jdbc.properties文件读取进来 -->
        <bean id="propertyPlaceholderConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
        		<!-- 指定jdbc.properties存放的位置 -->
-       		<property name="location" value="classpath:jdbc.properties"></property>
+       		<property name="location" value="classpath:appConfig/jdbc.properties"></property>
        </bean>
        
        <!-- 配置数据源 -->
@@ -30,12 +30,12 @@
        	<!-- 配置数据源 -->
        	<property name="dataSource" ref="basicDataSource"></property>
        	<!-- 指定xml文件所在的包路径 -->
-       	<property name="mapperLocations" value="classpath*:cn/java/mapper/*.xml"></property>
+       	<property name="mapperLocations" value="classpath*:cn/somethingfunning/**/mapper/xml/*.xml"></property>
        </bean>
        
        <!-- 扫描dao层中的java接口类 -->
        <bean id="mapperScannerConfigurer" class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-       	<property name="basePackage" value="cn.java.mapper"></property>
+       	<property name="basePackage" value="cn.somethingfunning.**.mapper"></property>
        </bean>
  
 </beans>

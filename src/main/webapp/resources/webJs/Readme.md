@@ -1,4 +1,4 @@
-# webJS
+# webJs
 
 This folder is primarily a container for the top-level pieces of the application.
 While you can remove some files and folders that this application does not use,
@@ -32,21 +32,21 @@ process.
 
 # Other Folders
 
-## webJS/app
+## webJs/app
 
 This folder contains the JavaScript files for the application.
 
-## webJS/resources
+## webJs/resources
 
 This folder contains static resources (typically an `"images"` folder as well).
 
-## webJS/overrides
+## webJs/overrides
 
 This folder contains override classes. All overrides in this folder will be 
 automatically included in application builds if the target class of the override
 is loaded.
 
-## webJS/sass
+## webJs/sass
 
-This folder contains the styling for the application's views. See webJS/sass/Readme.md
+This folder contains the styling for the application's views. See webJs/sass/Readme.md
 for details.

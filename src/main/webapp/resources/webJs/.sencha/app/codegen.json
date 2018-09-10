@@ -35,23 +35,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     },
     ".sencha/app/development.properties": {
@@ -60,23 +60,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     },
     ".sencha/app/native.properties": {
@@ -85,23 +85,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     },
     ".sencha/app/package.properties": {
@@ -110,23 +110,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     },
     ".sencha/app/production.properties": {
@@ -135,23 +135,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     },
     ".sencha/app/sencha.cfg": {
@@ -160,23 +160,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     },
     ".sencha/app/testing.properties": {
@@ -185,23 +185,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     },
     "index.html": {
@@ -210,23 +210,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     },
     "sass/config.rb": {
@@ -235,23 +235,23 @@
       "parameters": {
         "appControllers": "",
         "appModels": "",
-        "appName": "webJS",
+        "appName": "webJs",
         "appStores": "",
         "appViews": "",
         "controllerFileName": "Main",
         "controllerName": "Main",
-        "controllerNamespace": "webJS.controller",
+        "controllerNamespace": "webJs.controller",
         "frameworkName": "ext",
         "frameworkPath": "ext",
-        "modelNamespace": "webJS.model",
-        "name": "webJS",
+        "modelNamespace": "webJs.model",
+        "name": "webJs",
         "packagesRelPath": "ext/packages",
         "senchadir": ".sencha",
         "themeName": "default",
-        "uniqueId": "fafee641-cb9e-41d8-be77-e02da8326ca5",
+        "uniqueId": "b4da935e-5f94-4f8b-a0fb-ca924c1fb6ee",
         "viewFileName": "Main",
         "viewName": "Main",
-        "viewNamespace": "webJS.view"
+        "viewNamespace": "webJs.view"
       }
     }
   }

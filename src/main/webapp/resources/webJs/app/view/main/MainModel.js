@@ -1,13 +1,13 @@
 /**
  * This class is the view model for the Main view of the application.
  */
-Ext.define('webJS.view.main.MainModel', {
+Ext.define('webJs.view.main.MainModel', {
     extend: 'Ext.app.ViewModel',
 
     alias: 'viewmodel.main',
 
     data: {
-        name: 'webJS'
+        name: 'webJs'
     }
 
     //TODO - add data, formulas and/or methods to support your view

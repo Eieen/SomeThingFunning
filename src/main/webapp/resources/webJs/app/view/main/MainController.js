@@ -5,7 +5,7 @@
  *
  * TODO - Replace this content of this view to suite the needs of your application.
  */
-Ext.define('webJS.view.main.MainController', {
+Ext.define('webJs.view.main.MainController', {
     extend: 'Ext.app.ViewController',
 
     requires: [

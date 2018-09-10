@@ -4,14 +4,14 @@
  * Sencha Cmd when upgrading.
  */
 Ext.application({
-    name: 'webJS',
+    name: 'webJs',
 
-    extend: 'webJS.Application',
+    extend: 'webJs.Application',
     
-    autoCreateViewport: 'webJS.view.main.Main'
+    autoCreateViewport: 'webJs.view.main.Main'
 	
     //-------------------------------------------------------------------------
-    // Most customizations should be made to webJS.Application. If you need to
+    // Most customizations should be made to webJs.Application. If you need to
     // customize this file, doing so below this section reduces the likelihood
     // of merge conflicts when upgrading to new versions of Sencha Cmd.
     //-------------------------------------------------------------------------

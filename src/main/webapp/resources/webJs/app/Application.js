@@ -3,10 +3,10 @@
  * Ext.application(). This is the ideal place to handle application launch and initialization
  * details.
  */
-Ext.define('webJS.Application', {
+Ext.define('webJs.Application', {
     extend: 'Ext.app.Application',
     
-    name: 'webJS',
+    name: 'webJs',
 
     stores: [
         // TODO: add global / shared stores here
