@@ -46,7 +46,7 @@ This folder contains override classes. All overrides in this folder will be
 automatically included in application builds if the target class of the override
 is loaded.
 
-## webJs/sass
+## webJs/sassxx
 
 This folder contains the styling for the application's views. See webJs/sass/Readme.md
 for details.
