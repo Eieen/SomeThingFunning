@@ -8,6 +8,6 @@ public class IndexPageLogin {
 	@RequestMapping("login.shtml")
 	public String login(){
 		System.out.println("entry controller!------------------------------->");
-		return "resources/webJs/index.html";
+		return "index.html";
 	}
 }
